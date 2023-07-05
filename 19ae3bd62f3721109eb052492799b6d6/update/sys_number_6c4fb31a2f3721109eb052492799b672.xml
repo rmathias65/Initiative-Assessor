@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1068650_ia_initiative_assessment">x_1068650_ia_initiative_assessment</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>INAS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>rmathias</sys_created_by>
+        <sys_created_on>2023-07-05 16:22:25</sys_created_on>
+        <sys_id>6c4fb31a2f3721109eb052492799b672</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INAS</sys_name>
+        <sys_package display_value="Initiative Assessor" source="x_1068650_ia">19ae3bd62f3721109eb052492799b6d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Initiative Assessor">19ae3bd62f3721109eb052492799b6d6</sys_scope>
+        <sys_update_name>sys_number_6c4fb31a2f3721109eb052492799b672</sys_update_name>
+        <sys_updated_by>rmathias</sys_updated_by>
+        <sys_updated_on>2023-07-05 16:22:25</sys_updated_on>
+    </sys_number>
+</record_update>

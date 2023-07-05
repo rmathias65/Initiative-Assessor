@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Initiative Assessment" language="en" table="x_1068650_ia_initiative_assessment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Initiative Assessment</label>
+            <language>en</language>
+            <name>x_1068650_ia_initiative_assessment</name>
+            <plural>Initiative Assessments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rmathias</sys_created_by>
+            <sys_created_on>2023-07-05 16:22:24</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Initiative Assessment</sys_name>
+            <sys_package display_value="Initiative Assessor" source="x_1068650_ia">19ae3bd62f3721109eb052492799b6d6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Initiative Assessor">19ae3bd62f3721109eb052492799b6d6</sys_scope>
+            <sys_update_name>sys_documentation_x_1068650_ia_initiative_assessment__en</sys_update_name>
+            <sys_updated_by>rmathias</sys_updated_by>
+            <sys_updated_on>2023-07-05 16:22:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
